@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Alex Collings (@AGCollings)
 - 👀 I’m interested in Game Development and Web Apps
-- 🌱 I’m currently learning ReactJS
+- 🌱 I’m currently learning how to properly secure ReactJS webapps for use in real world business applications
 - 💞️ I’m looking to collaborate on ambitious video game projects
 - 📫 The best way to reach me is by email at AlexGCollings@gmail.com
 
