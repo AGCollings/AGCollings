@@ -2,7 +2,7 @@
 - 👀 I’m interested in Game Development and Web Apps
 - 🌱 I’m currently learning how to use redux to simplify reactJS web apps
 - 💞️ I’m looking to collaborate on ambitious video game projects
-- 😥 <a href="http://acollings.ca" target="\_blank" >Check out my website for examples of my work!</a>
+- 😥 [Check out my website (acollings.ca) for examples of my work!](http://acollings.ca)
 - 📫 The best way to reach me is by email at alexandercollings1@gmail.com
 
 <!---
